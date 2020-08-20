@@ -837,6 +837,12 @@ a:not([href]):not([tabindex]):hover {
   font-size: 15px;
   color: #999;
 }
+
+.testimonial-item .testimonial-text p span {
+  font-size: inherit; 
+  color: inherit;
+}
+
 .testimonial-item .testimonial-text p {
   font-size: 14px;
   font-weight: 400;
